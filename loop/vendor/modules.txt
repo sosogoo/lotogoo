@@ -1,0 +1,6 @@
+# github.com/jmoiron/sqlx v1.2.0
+## explicit
+github.com/jmoiron/sqlx
+github.com/jmoiron/sqlx/reflectx
+# google.golang.org/appengine v1.6.6
+## explicit
